@@ -29,3 +29,10 @@
 
 - Cela signiifie que le protocole de communication qui n'enregistre pas l'état d'une session de communication entre deux requêtes successives.
 - L'utilisation de ce protocole permet de simplifier son design, car on se libère de toute la gestion compliquée de l'espace mémoire requis pour enregistrer l'état des échanges en cours.
+
+## Question 5 : 
+
+- **Le protocole et le sous domaine** : https://www.
+- **Le nom de domaine** : monsite
+- **L'extension du nom de domaine** : .com
+- **L'url complète** : https://www.monsite.com
