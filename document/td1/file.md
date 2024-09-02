@@ -19,3 +19,13 @@
 | Type de données	  | Caractères ASCII uniquement.	          |    Caractères ASCII mais également données binaires. |
 | Longueur des données	  | 	Limitée - longueur maximale de l’URL à 2 048 caractères.          |   	Illimitée.|
 
+## Question 3 :
+
+**Le protocole HTTP** : Le protocole HTTP (Hypertext Transfer Protocol) est l'ensemble des règles permettant de transférer des fichiers tels que du texte, des images, du son, de la vidéo et d'autres fichiers multimédias sur le Web. 
+
+**Pourquoi est-il extensible ?** Le protocole HTTP est extensible car il permet de transmettre des documents hypertextes HTTP, mais aussi des images ou des vidéos, ou encore pour envoyer des données ou du contenu à des serveurs, comme dans le cas des formulaires. Les support qu'il traite peuvent être différents.
+
+## Question 4 : 
+
+- Cela signiifie que le protocole de communication qui n'enregistre pas l'état d'une session de communication entre deux requêtes successives.
+- L'utilisation de ce protocole permet de simplifier son design, car on se libère de toute la gestion compliquée de l'espace mémoire requis pour enregistrer l'état des échanges en cours.
