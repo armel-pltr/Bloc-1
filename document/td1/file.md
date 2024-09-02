@@ -33,6 +33,14 @@
 ## Question 5 : 
 
 - **Le protocole et le sous domaine** : https://www.
+
+  -> Cette partie correspond aux normes techniques qui sont communément utilisées pour concevoir des adresses de sites internet.
+  
 - **Le nom de domaine** : monsite
+
+  -> Il s'agit le plus souvent du nom de votre marque, de votre entreprise ou encore de votre blog ou de votre produit. Sur le site de Google (https://www.google.com) par exemple, le nom de domaine est "google".
+
 - **L'extension du nom de domaine** : .com
+
+  -> C'est la dernière partie qui compose l'URL. Pour les entreprises en France, l'extension la plus courante est le .fr ou encore le .com.
 - **L'url complète** : https://www.monsite.com
