@@ -44,3 +44,12 @@
 
   -> C'est la dernière partie qui compose l'URL. Pour les entreprises en France, l'extension la plus courante est le .fr ou encore le .com.
 - **L'url complète** : https://www.monsite.com
+
+
+## Question 6 : 
+
+- **1XX** : réponses informatives. __Exemple__ : Page en cours de chargement.
+- **2XX** : réponses de succès. __Exemple__ : Le contenu est affiché avec succés.
+- **3XX** : redirections. __Exemple__ : Patientez, vous allez être redirigé.
+- **4XX** : réponses d'erreur côté client. __Exemple__ : Erreur 404
+- **5XX** : réponses d'erreur côté serveur. __Exemple__ : Le serveur ne répond plus.
