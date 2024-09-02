@@ -60,3 +60,9 @@
 **Les principes de la négociation de contenu**
 
 - Lorsqu'un client souhaite obtenir une ressource, il la demande via une URL. Le serveur utilise alors cette URL pour choisir l'une des variantes disponibles. Chaque variante est appelée une représentation. Le serveur renvoie alors une représentation donnée au client.
+
+## Question 8 :
+
+- A compléter en classe.
+
+## Question 9 : 
