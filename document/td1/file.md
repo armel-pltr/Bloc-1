@@ -53,3 +53,10 @@
 - **3XX** : redirections. __Exemple__ : Patientez, vous allez être redirigé.
 - **4XX** : réponses d'erreur côté client. __Exemple__ : Erreur 404
 - **5XX** : réponses d'erreur côté serveur. __Exemple__ : Le serveur ne répond plus.
+
+
+## Question 7 : 
+
+**Les principes de la négociation de contenu**
+
+- Lorsqu'un client souhaite obtenir une ressource, il la demande via une URL. Le serveur utilise alors cette URL pour choisir l'une des variantes disponibles. Chaque variante est appelée une représentation. Le serveur renvoie alors une représentation donnée au client.
