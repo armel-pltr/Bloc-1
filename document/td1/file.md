@@ -63,6 +63,4 @@
 
 ## Question 8 :
 
-- A compléter en classe.
-
-## Question 9 : 
+- Fait.
