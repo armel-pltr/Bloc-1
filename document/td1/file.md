@@ -160,3 +160,35 @@ Content-Type: text/html; charset=iso-8859-1
 6)  **A revoir**
 
 ## Question 10
+
+Host : Indique l'hôte (nom de domaine) et le port du serveur.
+
+Exemple : Host: www.example.com
+User-Agent : Fournit des informations sur le client (navigateur, OS, etc.).
+
+Exemple : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+Accept : Spécifie les types de contenu acceptés par le client.
+
+Exemple : Accept: text/html,application/xhtml+xml
+Accept-Encoding : Indique les encodages de contenu acceptés (gzip, deflate).
+
+Exemple : Accept-Encoding: gzip, deflate
+Accept-Language : Précise la langue préférée du client.
+
+Exemple : Accept-Language: en-US,en;q=0.9,fr;q=0.8
+Authorization : Contient les informations d'authentification pour l'accès sécurisé.
+
+Exemple : Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==
+Cookie : Envoie des cookies stockés dans le navigateur vers le serveur.
+
+Exemple : Cookie: sessionId=38afes7a8
+Referer : Indique l'URL de la page d'origine de la requête.
+
+Exemple : Referer: https://www.example.com/previous-page
+Connection : Indique si la connexion doit être maintenue ouverte.
+
+Exemple : Connection: keep-alive
+Content-Type : Spécifie le type de contenu envoyé dans la requête.
+
+Exemple : Content-Type: application/json
+
