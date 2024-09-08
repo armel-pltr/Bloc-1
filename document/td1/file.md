@@ -63,4 +63,100 @@
 
 ## Question 8 :
 
-- Fait.
+- Fait sur machine perso.
+
+## Question 9 :
+
+1)  **curl http://dev.local**
+   - *Réponse :*
+
+```
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Web local</title>
+</head>
+<body>
+    <h1>TDs web</h1>
+</body>
+</html>
+```
+
+- **Commentaire :** Cette commande permet d'afficher le code source de la page.
+
+2) **curl -i http://dev.local**
+
+- *Réponse :*
+  
+```HTTP/1.1 200 OK
+Date: Sun, 08 Sep 2024 12:21:48 GMT
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+Last-Modified: Sat, 07 Sep 2024 11:14:01 GMT
+ETag: "15b-621859ef2ba97"
+Accept-Ranges: bytes
+Content-Length: 347
+Content-Type: text/html
+
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Web local</title>
+</head>
+<body>
+    <h1>TDs web</h1>
+</body>
+</html>
+```
+- *Commentaire :* Cette commande permet de savoir si cette URL est bien fonctionnel.
+
+3) **curl -i http://dev.local/notExisting**
+
+- *Réponse :*
+  
+```
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at dev.local Port 80</address>
+</body></html>
+```
+- *Commentaire :* Cette commande permet de nous donner le code source d'une erreur 404, d'une page non trouvé.
+
+4) **curl -i http://dev.local/notExisting**
+
+- *Réponse :*
+  
+```
+HTTP/1.1 404 Not Found
+Date: Sun, 08 Sep 2024 12:30:45 GMT
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+Content-Length: 295
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at dev.local Port 80</address>
+</body></html>
+```
+- *Commentaire :* Cette commande permet de nous donner le code source d'une erreur 404, d'une page non trouvé et de savoir si elle est fonctionnel.
+
+5) Fait sur machine perso.
+
+6)  **A revoir**
+
+## Question 10
