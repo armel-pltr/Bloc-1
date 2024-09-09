@@ -23,7 +23,7 @@
 
 **Le protocole HTTP** : Le protocole HTTP (Hypertext Transfer Protocol) est l'ensemble des règles permettant de transférer des fichiers tels que du texte, des images, du son, de la vidéo et d'autres fichiers multimédias sur le Web. 
 
-**Pourquoi est-il extensible ?** Le protocole HTTP est extensible car il permet de transmettre des documents hypertextes HTTP, mais aussi des images ou des vidéos, ou encore pour envoyer des données ou du contenu à des serveurs, comme dans le cas des formulaires. Les support qu'il traite peuvent être différents.
+**Pourquoi est-il extensible ?** Le protocole HTTP est extensible car il permet d'être étendu au fil du temps avec de nouvelles methodes (autre que GET et POST).
 
 ## Question 4 : 
 
