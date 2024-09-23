@@ -1,0 +1,26 @@
+body{
+    font-family: "Inria Sans", Verdana, sans-serif;
+  }
+
+h3{
+    font-size: 30px;
+}
+
+h4{
+    font-size: 20px;
+    color: green;
+    text-decoration-line: underline;
+}
+
+h5{
+    font-size: 16px;
+}
+
+.txt-coloré-rouge{
+    color: red;
+    font-weight: bold;
+}
+
+.txt-coloré-bleu{
+    color: aqua;
+}
