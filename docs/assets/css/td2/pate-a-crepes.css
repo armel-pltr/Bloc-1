@@ -1,4 +1,44 @@
-h1{
-    text-align: center;
+body{
+    font-family: "Inria Sans", Verdana, sans-serif;
+    margin: 70px;
+  }
 
+p{
+    background-color: #e7e7e7;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+h3{
+    background-color: #e7e7e7;
+    
+}
+
+.txt-rouge{
+    color: red;
+}
+
+.blocktxt{
+    background-color: #e7e7e7;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+ol{
+    background-color: #e7e7e7;
+}
+
+.blockrecette{
+    background-color: #e7e7e7;
+    margin: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+
+}
+
+ol{
+    margin: 30px;
 }
