@@ -43,8 +43,6 @@ h2{
     padding: 20px;
     display: flex;
     width: 70%;
-    
-
   }
 
   .container2 > * {
@@ -68,3 +66,10 @@ p{
     padding-bottom: 30px;
 }
 
+footer {
+    text-align: center;
+    background-color: rgb(49, 49, 49);
+    margin-top: 30px;
+    padding: 20px 0; 
+    color: white;
+}
