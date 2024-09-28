@@ -1,3 +1,18 @@
 body{
     font-family: "Inria Sans", Verdana, sans-serif;
   }
+
+
+table, th, td {
+  border: 3px solid black; 
+  border-collapse: collapse; 
+  padding: 15px;
+}
+
+.header{
+  background-color: rgb(198, 198, 198);
+}
+
+.colone-g{
+  background-color: grey
+}
