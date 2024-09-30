@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Inria Sans", Verdana, sans-serif;
+}
+
+header {
+    background-image: url(/assets/images/td3/header-bg.jpg);
+    background-position: center;
+    padding: 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav {
+    display: flex;
+    gap: 20px;
+}
+
+h1{
+    font-size: 15px;
+    color: white;    
+}
+
+h2{
+    text-align: center;
+    padding-top: 50px;
+}
+
+p {
+    padding-top: 30px;
+    width: 800px;
+    margin: 0 auto; 
+}
+
+.button-container {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    padding-top: 20px;
+    font-size: 16px; /* Ajuste la taille du texte du bouton */
+
+}
+
