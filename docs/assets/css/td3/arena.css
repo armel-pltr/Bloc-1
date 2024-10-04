@@ -45,7 +45,31 @@ p {
     justify-content: center; 
     align-items: center; 
     padding-top: 20px;
-    font-size: 16px; /* Ajuste la taille du texte du bouton */
-
 }
 
+button{
+    font-size: 20px;
+    padding: 15px;
+    width: 150px;
+}
+
+.p-2{
+    text-align: center;
+}
+
+.images-bas{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+footer {
+    background-color: #478dbe;
+    background-position: center;
+    padding: 40px;
+}
+
+.txt-footer{
+    color: white;
+    text-align: center;
+}
