@@ -1,9 +1,14 @@
 body{
   font-family: "Inria Sans", Verdana, sans-serif;
+  background-image: url("https://i.redd.it/1920x1080-topography-wallpapers-made-by-me-request-for-v0-j8m6ykh6ar1a1.jpg?width=1920&format=pjpg&auto=webp&s=a616adb937a963b9aabdbcd2a21e2696b9533be7");
 }
 
 h1,h2,h3,h4{
   text-align: center;
+}
+
+h2{
+  color: white;
 }
 
 *{
