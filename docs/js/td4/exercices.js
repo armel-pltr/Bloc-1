@@ -41,7 +41,7 @@ function calculateSum() {
 }
 
 // Ajouter un événement au bouton
-document.getElementById('calculateButton').addEventListener('click', calculateSum);
+document.getElementById('calculateButton') && document.getElementById('calculateButton').addEventListener('click', calculateSum);
 
 
 //Exercice 4
@@ -49,7 +49,7 @@ document.getElementById('calculateButton').addEventListener('click', calculateSu
 document.getElementById("addButton") && document.getElementById("addButton").addEventListener("click", addItemToList);
 
 
-document.getElementById('calculateButton').addEventListener('click', function() {
+document.getElementById('calculateButton') && document.getElementById('calculateButton').addEventListener('click', function() {
     const select = document.getElementById('menuselect');
     const imageDisplay = document.getElementById('imageDisplay');
     const selectedValue = select.value;
@@ -64,4 +64,28 @@ document.getElementById('calculateButton').addEventListener('click', function() 
 
 document.getElementById("addButton") && document.getElementById("addButton").addEventListener("click", addItemToList);
 
+
+ // Sélectionner l'élément
+ const monElement = document.getElementById('monElement');
+
+ // Ajouter l'événement mouseover
+ monElement.addEventListener('mouseover', function() {
+     alert('Vous avez survolé l\'élément !');
+ });
+
+
+// Exercice 6
+
+function updateClock() {
+    const now = new Date();
+    const hours = String(now.getHours()).padStart(2, '0');
+    const minutes = String(now.getMinutes()).padStart(2, '0');
+    const seconds = String(now.getSeconds()).padStart(2, '0');
+
+    const timeString = `${hours}:${minutes}:${seconds}`;
+    document.getElementById('clock').textContent = timeString;
+}
+
+setInterval(updateClock, 1000);
+updateClock(); // Appel initial pour ne pas attendre 1 seconde
 
