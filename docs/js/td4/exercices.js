@@ -76,6 +76,9 @@ document.getElementById("addButton") && document.getElementById("addButton").add
 
 // Exercice 6
 
+document.getElementById("addButton") && document.getElementById("addButton").addEventListener("click", addItemToList);
+
+
 function updateClock() {
     const now = new Date();
     const hours = String(now.getHours()).padStart(2, '0');
