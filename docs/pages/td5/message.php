@@ -7,7 +7,8 @@
     <a href="?msg=Message 3">Message 3</a>
 
     <?php
-    $msg=$_GET['msg'];
+    $defautmsg= "Message par defaut.";
+    $msg = isset($_GET['msg']) ? $_GET['msg'] : $defautmsg;
 
     echo "<h1>$msg</h1>";
     ?>
