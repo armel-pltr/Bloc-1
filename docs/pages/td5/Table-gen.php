@@ -46,10 +46,8 @@
 
             tableHTML += "</table>";
 
-            // Affiche le tableau dans la page
             document.getElementById('tableContainer').innerHTML = tableHTML;
 
-            // Affiche le code HTML dans le textarea
             document.getElementById('htmlCode').value = tableHTML;
         }
     </script>
