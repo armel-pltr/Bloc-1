@@ -23,4 +23,3 @@
 - 🤖 Artificial intelligence
 - 🎮 Video games
 - 🖥️ Hardware
-- Texte normal suivi d’un [color=#26B260]texte coloré en vert[/color] dans un paragraphe.
