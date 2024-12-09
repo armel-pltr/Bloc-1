@@ -2,7 +2,7 @@
 
  > **I'm Armel, a student based in France. Welcome to my GitHub profile! I truly enjoy diving into innovative projects and pushing the boundaries of my knowledge. On this repository you can find my latest creations.**
 
-# STUDIES
+# STUDIES 👨‍🎓
 
 - 👨‍🎓 BTS SIO - SISR/SLAM
 - 💻 I'm learning computers in general
