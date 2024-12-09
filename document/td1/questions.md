@@ -11,7 +11,7 @@
 > 
 > - Host: example.com
   
-- **La méthode POST** possède des caractéristiques différentes : les paramètres, c'est-à-dire les données saisies par l'utilisateur, sont passés non pas dans l'URL, mais dans la requête elle-même. On utilise POST pour pour la transmission des informations et des données de l'utilisateur. Pour cette méthode, les donnés envoyés ne sont pas visibles dans l'url
+- **La méthode POST** est utilisée pour envoyer des données au serveur, généralement dans le corps de la requête. Elle est souvent employée pour des formulaires ou le transfert de données sensibles.
 
 -> La méthode GET passe les réponses saisies via l'URL tandis que la méthode POST passe les paramètres dans le corps de la requête.
 
