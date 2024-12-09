@@ -1,4 +1,4 @@
-# ABOUT ME 
+# ABOUT ME 👩‍💻
 
 ## LANGUAGES
 
@@ -7,3 +7,4 @@
 - PHP
 - JAVASCRIPT
 - SQL
+
