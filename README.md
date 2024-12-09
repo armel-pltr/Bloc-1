@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Armel !
+# 👋 Hello, I'm Armel!
 
 # ABOUT ME 👩‍💻
 
@@ -13,5 +13,5 @@
 ## ETUDES
 
 - 👨‍🎓 BTS SIO
-- 💻 Je suis en train d'apprendre l'informatique en générale
-- 🤔 Je cherche des conseil pour améliorer mes connaissances en informatique
+- 💻 I'm learning computers in general
+- 🤔 I'm looking for advice to improve my computer skills
