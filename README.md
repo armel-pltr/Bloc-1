@@ -15,4 +15,4 @@
 - 👨‍🎓 BTS SIO
 - 💻 I'm learning computers in general
 - 🤔 I'm looking for advice to improve my computer skills
-- 💬 1 ans d'experience dans le développement (HTML/CSS)
+- ⏳ 1 ans d'experience dans le développement (HTML/CSS)
