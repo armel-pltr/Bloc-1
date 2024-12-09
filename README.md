@@ -1,6 +1,7 @@
+# ABOUT ME 👩‍💻
+
 # I'm Armel, a student based in France. Welcome to my GitHub profile! I truly enjoy diving into innovative projects and pushing the boundaries of my knowledge. 🚀
 
-# ABOUT ME 👩‍💻
 
 ## LANGUAGES LEARNED ⌨️
 
