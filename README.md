@@ -10,7 +10,7 @@
 - 📋 JAVASCRIPT : Computer programming language commonly used to create interactive effects within web browsers.
 - SQL : PHP is one of the easiest computer programming languages in the world to use and, above all, it is accessible to everyone for creating dynamic websites and pages using frameworks.
 
-## ETUDES
+## STUDIES
 
 - 👨‍🎓 BTS SIO
 - 💻 I'm learning computers in general
