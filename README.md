@@ -1,6 +1,6 @@
 # ABOUT ME 👩‍💻
 
- > **I'm Armel, a student based in France. Welcome to my GitHub profile! I truly enjoy diving into innovative projects and pushing the boundaries of my knowledge. 🚀**
+ > **I'm Armel, a student based in France. Welcome to my GitHub profile! I truly enjoy diving into innovative projects and pushing the boundaries of my knowledge. On this repository you can find my latest creations**
 
 # STUDIES
 
@@ -16,3 +16,4 @@
 - PHP : PHP is one of the easiest computer programming languages in the world to use and, above all, it is accessible to everyone for creating dynamic websites and pages using frameworks.
 - 📋 JAVASCRIPT : Computer programming language commonly used to create interactive effects within web browsers.
 - SQL : PHP is one of the easiest computer programming languages in the world to use and, above all, it is accessible to everyone for creating dynamic websites and pages using frameworks.
+
