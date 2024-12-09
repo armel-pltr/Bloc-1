@@ -1,6 +1,6 @@
 # ABOUT ME 👩‍💻
 
-## LANGUAGES
+## LANGUAGES ⌨️
 
 - HTML
 - CSS
