@@ -5,7 +5,6 @@
 - **La méthode GET** est utilisée pour récupérer des ressources ou des données à partir du serveur. Les paramètres de requête sont inclus directement dans l'URL après un "?" et sont visibles dans la barre d'adresse du navigateur.
 > Exemple :
 > URL : https://example.com/search?query=armel&lang=fr
-> 
 > Requête envoyée : GET /search?query=chatgpt&lang=fr HTTP/1.1
 > Host: example.com
   
