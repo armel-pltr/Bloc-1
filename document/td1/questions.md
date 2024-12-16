@@ -1,6 +1,9 @@
 # TD1
 
-## Question 1 : 
+## Question 1 - Méthodes GET et POST : 
+
+
+
 
 - **La méthode GET** du protocole HTTP (Hypertext Transfer Protocol) est principalement utilisée côté client (navigateur) pour envoyer une requête à un serveur spécifié afin d'obtenir certaines données ou ressources. On utilise GET les paramètres d'un site Web (filtres, tri, saisies de recherche, etc.). Pour cette méthode, les donnés envoyés sont visible dans l'url en tant que paramètres après le point d'interrogation.
   
@@ -8,7 +11,7 @@
 
 -> La méthode GET passe les réponses saisies via l'URL tandis que la méthode POST passe les paramètres dans le corps de la requête.
 
-## Question 2 : 
+## Question 2 - Comparaison méthodes : 
 
 | .  | GET          | POST |
 | :--------------- |:---------------:| -----:|
@@ -19,18 +22,18 @@
 | Type de données	  | Caractères ASCII uniquement.	          |    Caractères ASCII mais également données binaires. |
 | Longueur des données	  | 	Limitée - longueur maximale de l’URL à 2 048 caractères.          |   	Illimitée.|
 
-## Question 3 :
+## Question 3 - Extensible :
 
 **Le protocole HTTP** : Le protocole HTTP (Hypertext Transfer Protocol) est l'ensemble des règles permettant de transférer des fichiers tels que du texte, des images, du son, de la vidéo et d'autres fichiers multimédias sur le Web. 
 
 **Pourquoi est-il extensible ?** Le protocole HTTP est extensible car il permet d'être étendu au fil du temps avec de nouvelles methodes (autre que GET et POST).
 
-## Question 4 : 
+## Question 4 - Sans état : 
 
 - Cela signiifie que le protocole de communication qui n'enregistre pas l'état d'une session de communication entre deux requêtes successives.
 - L'utilisation de ce protocole permet de simplifier son design, car on se libère de toute la gestion compliquée de l'espace mémoire requis pour enregistrer l'état des échanges en cours.
 
-## Question 5 : 
+## Question 5 - URL : 
 
 - **Le protocole et le sous domaine** : https://www.
 
@@ -46,7 +49,7 @@
 - **L'url complète** : https://www.monsite.com
 
 
-## Question 6 : 
+## Question 6 - Codes Status : 
 
 - **1XX** : réponses informatives. __Exemple__ : Page en cours de chargement.
 - **2XX** : réponses de succès. __Exemple__ : Le contenu est affiché avec succés.
@@ -55,17 +58,17 @@
 - **5XX** : réponses d'erreur côté serveur. __Exemple__ : Le serveur ne répond plus.
 
 
-## Question 7 : 
+## Question 7 - Négociation de contenu : 
 
 **Les principes de la négociation de contenu**
 
 - Lorsqu'un client souhaite obtenir une ressource, il la demande via une URL. Le serveur utilise alors cette URL pour choisir l'une des variantes disponibles. Chaque variante est appelée une représentation. Le serveur renvoie alors une représentation donnée au client.
 
-## Question 8 :
+## Question 8 - Installation Apache & configuration :
 
 - Fait sur machine perso.
 
-## Question 9 :
+## Question 9 - CURL :
 
 1)  **curl http://dev.local**
    - *Réponse :*
@@ -159,7 +162,7 @@ Content-Type: text/html; charset=iso-8859-1
 
 6)  **A revoir**
 
-## Question 10
+## Question 10 - Headers :
 
 Host : Indique l'hôte (nom de domaine) et le port du serveur.
 
